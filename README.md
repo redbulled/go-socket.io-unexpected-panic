@@ -1,1 +1,1 @@
-panic happens afeter page reload
+panic happens after page reload
